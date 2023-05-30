@@ -341,3 +341,6 @@ transform: translateX(-50%);
     text-align: center;
     
 }
+.tablogo{
+    border-radius: 50px;
+}
